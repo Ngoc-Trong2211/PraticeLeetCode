@@ -1,3 +1,4 @@
+package LeetCode;
 // First Unique Character in a String
 
 public class LeetCode387 {

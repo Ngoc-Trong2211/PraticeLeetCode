@@ -1,3 +1,4 @@
+package LeetCode;
 // Richest Customer Wealth
 
 public class LeetCode1672 {
