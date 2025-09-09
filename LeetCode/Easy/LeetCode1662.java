@@ -1,4 +1,4 @@
-package LeetCode;
+package LeetCode.Easy;
 // Check If Two String Arrays are Equivalent
 
 public class LeetCode1662 {

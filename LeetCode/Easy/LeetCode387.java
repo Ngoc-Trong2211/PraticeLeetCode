@@ -1,4 +1,4 @@
-package LeetCode;
+package LeetCode.Easy;
 // First Unique Character in a String
 
 public class LeetCode387 {

@@ -1,4 +1,4 @@
-package LeetCode;
+package LeetCode.Easy;
 public class LeetCode1 {
     public static void main(String[] args) {
         int a[] = {2,7,11,15};

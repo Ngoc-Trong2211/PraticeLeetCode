@@ -1,4 +1,4 @@
-package LeetCode;
+package LeetCode.Easy;
 // Third Maximum Number
 
 public class LeetCode414 {

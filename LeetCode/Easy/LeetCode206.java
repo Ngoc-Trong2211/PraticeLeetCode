@@ -1,4 +1,4 @@
-package LeetCode;
+package LeetCode.Easy;
 // Reverse Linked List
 
 public class LeetCode206 {

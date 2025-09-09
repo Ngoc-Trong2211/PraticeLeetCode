@@ -1,4 +1,4 @@
-package LeetCode;
+package LeetCode.Easy;
 // Sort an Array
 
 public class LeetCode912 {

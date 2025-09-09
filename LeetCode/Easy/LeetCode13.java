@@ -1,4 +1,4 @@
-package LeetCode;
+package LeetCode.Easy;
 // Roman to Integer
 
 public class LeetCode13 {

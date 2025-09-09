@@ -1,4 +1,4 @@
-package LeetCode;
+package LeetCode.Easy;
 // Binary Search
 
 public class LeetCode704 {

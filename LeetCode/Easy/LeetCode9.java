@@ -1,4 +1,4 @@
-package LeetCode;
+package LeetCode.Easy;
 // Palindrome Number
 
 public class LeetCode9 {

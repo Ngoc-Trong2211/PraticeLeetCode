@@ -1,4 +1,4 @@
-package LeetCode;
+package LeetCode.Easy;
 public class LeetCode1295 {
     public static void main(String[] args) {
         System.out.println(findNumbers(new int[]{12,345,2,6,7896}));
