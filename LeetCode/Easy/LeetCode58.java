@@ -1,3 +1,4 @@
+package LeetCode.Easy;
 // Length of Last Word
 
 public class LeetCode58 {

@@ -1,3 +1,4 @@
+package LeetCode.Easy;
 // Remove Duplicates from Sorted Array
 
 public class LeetCode26 {
